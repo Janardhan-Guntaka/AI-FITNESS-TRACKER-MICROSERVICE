@@ -1,4 +1,4 @@
-# 🏋️‍♂️ Fitness Tracker Microservices App
+# 🏋️‍♂️ AI-Fitness Tracker Microservices App
 
 A full-stack, secure microservices-based fitness tracking platform featuring user management, activity logging, and AI-driven workout recommendations via Gemini API.  
 Built with **Spring Boot**, **React**, **RabbitMQ**, **Keycloak OAuth2 PKCE**, **PostgreSQL**, and **MongoDB**.
@@ -90,6 +90,7 @@ X-User-ID: <mapped userId> (set by API Gateway internally)
 
 
 ### 🔑 OAuth2 Login & Authorization
+
 ![OAuth2 Login Screenshot](working_pictures/login_page.png)
 
 ### 📋 Activity Tracker UI

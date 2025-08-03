@@ -88,13 +88,7 @@ X-User-ID: <mapped userId> (set by API Gateway internally)
 
 📸 Demo Screenshots
 
-
-### 🔑 OAuth2 Login & Authorization
-
-![OAuth2 Login Screenshot](https://raw.githubusercontent.com/Janardhan-Guntaka/AI-FITNESS-TRACKER-MICROSERVICE/refs/heads/main/working_pictures/login_page.png)
-
-### 📋 Activity Tracker UI
-![Activity Tracker UI](working_pictures/dashboard.png)
+Provided in working_pictures folder 
 
 ### 📡 Eureka Service Registry
 ![Eureka Service Dashboard](working_pictures/eureka_registrations.png)

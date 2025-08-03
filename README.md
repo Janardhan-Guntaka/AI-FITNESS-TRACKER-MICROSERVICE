@@ -91,7 +91,7 @@ X-User-ID: <mapped userId> (set by API Gateway internally)
 
 ### 🔑 OAuth2 Login & Authorization
 
-![OAuth2 Login Screenshot](working_pictures/login_page.png)
+![OAuth2 Login Screenshot](https://raw.githubusercontent.com/Janardhan-Guntaka/AI-FITNESS-TRACKER-MICROSERVICE/refs/heads/main/working_pictures/login_page.png)
 
 ### 📋 Activity Tracker UI
 ![Activity Tracker UI](working_pictures/dashboard.png)
